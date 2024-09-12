@@ -1,2 +1,2 @@
-# [MyApps](https://github.com/kolumnin/MyApps/edit/master/README.md)
+# [MyApps]()
 [My Apps in construction](https://kolumnin.github.io/MyApps/)
