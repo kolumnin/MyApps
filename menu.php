@@ -1,5 +1,5 @@
 <?php
-define('BOT_TOKEN', 'XXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXX'); // place bot  of your bot here kolumninBot 6839677737:AAGYTLMtDc47LYDDD739bCt_dQBI2h7XdmU 
+define('BOT_TOKEN', '6839677737:AAGYTLMtDc47LYDDD739bCt_dQBI2h7XdmU); // place bot  of your bot here kolumninBot 6839677737:AAGYTLMtDc47LYDDD739bCt_dQBI2h7XdmU 
 //kolumnin_bot 6613405752:AAHm4-6oQJLuHeeXx_etyo1ei2VzuXTK3nU
 
 function checkTelegramAuthorization($auth_data) {
