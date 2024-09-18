@@ -1,6 +1,6 @@
 <?php
-define('BOT_TOKEN', '6839677737:AAGYTLMtDc47LYDDD739bCt_dQBI2h7XdmU); // place bot  of your bot here kolumninBot 6839677737:AAGYTLMtDc47LYDDD739bCt_dQBI2h7XdmU 
-//kolumnin_bot 6613405752:AAHm4-6oQJLuHeeXx_etyo1ei2VzuXTK3nU
+define('BOT_TOKEN', '6839677737:AAGYTLMtDc47LYDDD739bCt_dQBI2h7XdmU); 
+// place bot  of your bot here kolumninBot 6839677737:AAGYTLMtDc47LYDDD739bCt_dQBI2h7XdmU 
 
 function checkTelegramAuthorization($auth_data) {
 
@@ -66,7 +66,7 @@ header('Location: login_example.php');
 
 view rawcheck_authorization.php hosted with ❤ by GitHub
 <?php
-define('BOT_USERNAME', 'XXXXXXXXXX'); // place username of your bot here
+define('BOT_USERNAME', 'kolumninBot'); // place username of your bot here
 function getTelegramUserData() {
 if (isset($_COOKIE['tg_user'])) {
 $auth_data_json = urldecode($_COOKIE['tg_user']);
@@ -108,7 +108,7 @@ echo <<<HTML
  <meta charset="utf-8">
  <title>Login Widget Example</title>
  </head>
- <body><center>{$html}</center></body>
+<body><center>{$html}</center></body>
 </html>
 HTML;
 ?>
